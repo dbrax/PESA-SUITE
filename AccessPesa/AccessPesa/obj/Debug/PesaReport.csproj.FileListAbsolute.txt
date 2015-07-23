@@ -1,0 +1,98 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\bin\Debug\AccessPesa.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\PesaReport.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.HomeMenu.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\PesaReport.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.CRDB_Bank.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Airtel_Money.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Tigo_Pesa.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Vodacom_Mpesa.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Ezy_Pesa.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.EntryForm.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe.config
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.exe
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.pdb
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.pdb
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Airtel_Money.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.CRDB_Bank.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.EntryForm.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Ezy_Pesa.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.HomeMenu.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Properties.Resources.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Tigo_Pesa.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Vodacom_Mpesa.resources
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\PesaReport.csproj.GenerateResource.Cache
+C:\Users\CIU\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\pesasuite.db
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe.config
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.exe
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.pdb
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\pesasuite.db
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.pdb
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\PesaReport.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Airtel_Money.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.CRDB_Bank.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.EntryForm.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Ezy_Pesa.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.HomeMenu.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Properties.Resources.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Tigo_Pesa.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Vodacom_Mpesa.resources
+C:\Users\user\Desktop\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\PesaReport.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe.config
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.exe
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.pdb
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\pesasuite.db
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\AccessPesa.pdb
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\PesaReport.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Airtel_Money.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.CRDB_Bank.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.EntryForm.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Ezy_Pesa.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.HomeMenu.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Tigo_Pesa.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Vodacom_Mpesa.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\PesaReport.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\RuntimeData.xml
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.AddingMoney.resources
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.Data.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.Deployment.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.Drawing.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.Windows.Forms.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\bin\Debug\System.Xml.dll
+C:\Users\user\Documents\GitHub\PesaSuite\PESA SUITE\AccessPesa\AccessPesa\obj\Debug\AccessPesa.addhistory.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe.config
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.exe
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.pdb
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\RuntimeData.xml
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\pesasuite.db
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\AccessPesa.pdb
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.Data.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.Deployment.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.Drawing.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.Windows.Forms.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\bin\Debug\System.Xml.dll
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\PesaReport.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.AddingMoney.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Airtel_Money.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.addhistory.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.CRDB_Bank.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.EntryForm.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Ezy_Pesa.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.HomeMenu.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Properties.Resources.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Tigo_Pesa.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Vodacom_Mpesa.resources
+C:\Users\user\Desktop\test\AccessPesa\AccessPesa\obj\Debug\PesaReport.csproj.GenerateResource.Cache

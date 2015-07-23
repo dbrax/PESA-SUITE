@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <services>
+    <mwanzo>1</mwanzo>
+    <vodacom>1</vodacom>
+    <airtel>1</airtel>
+    <tigo>1</tigo>
+    <zantel>1</zantel>
+    <crdb>1</crdb>
+  </services>
+  <config>
+    <releasedate>6/5/2015</releasedate>
+    <latestdate>11/5/2015</latestdate>
+    <installdate>6/10/2015</installdate>
+    <status>new</status>
+    <trialcounter>0</trialcounter>
+    <daysleft>30</daysleft>
+  </config>
+  <settings>
+    <mfloat>1126000</mfloat>
+    <tfloat>1830000</tfloat>
+    <efloat>3005000</efloat>
+    <afloat>930000</afloat>
+    <cfloat>1000000</cfloat>
+    <cashIn>3115000</cashIn>
+    <lang>Eng</lang>
+  </settings>
+</configuration>

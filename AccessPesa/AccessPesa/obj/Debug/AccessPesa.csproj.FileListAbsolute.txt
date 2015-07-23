@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe.config
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\bin\Debug\AccessPesa.exe
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\bin\Debug\AccessPesa.pdb
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.HomeMenu.resources
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.exe
+c:\users\user\documents\visual studio 2012\Projects\AccessPesa\AccessPesa\obj\Debug\AccessPesa.pdb
