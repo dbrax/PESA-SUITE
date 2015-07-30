@@ -14,6 +14,7 @@ namespace AccessPesa
     public partial class EntryForm : Form
     {
         //public Vodacom_Mpesa vodz = null;
+        String dateread,datesave;
         private int dif;
         public Boolean turn = false;
         private Boolean error;
@@ -135,6 +136,7 @@ namespace AccessPesa
 
                 else
                 {
+                    saveactvtydate();
 
                     if (CustomerIdNo_TextBox.Text == "") { CustomerIdNo_TextBox.Text = "000000000"; }
                     if (CustomerIdType_TextBox.Text == "") { CustomerIdType_TextBox.Text = ""; }
@@ -213,7 +215,7 @@ namespace AccessPesa
                             Close();
                             //this.DialogResult = DialogResult.OK;
                             break;
-                        case "EZY PESA FORM":
+                        case "EZYPESA FORM":
                             tablename = "ezypesa";
                             Databasecon insert = new Databasecon();
                             BussinessLogic calculate = new BussinessLogic();
@@ -340,7 +342,7 @@ namespace AccessPesa
             if (isNumericch == false)
             {
 
-               
+
                 error = true;
                 Alert3.Visible = true;
 
@@ -349,44 +351,46 @@ namespace AccessPesa
             else if (isNumericch == true)
             {
                 if (TransactionValue_TextBox.Text.Length < 1)
-                { error = true;
+                {
+                    error = true;
                     Alert3.Visible = true;
                 }
             }
-           
+
 
             if (CustomerName_TextBox.Text.Length < 1)
             {
                 error = true;
                 Alert4.Visible = true;
             }
-            
+
             int a;
             bool isNumeric = int.TryParse(CustomerCellPhone_TextBox.Text, out a);
-                
-                
-                if (isNumeric == false)
+
+
+            if (isNumeric == false)
+            {
+
+                mb = true;
+                custnumerror.Visible = true;
+                // messagenumber = "Customer Cell Phone is not a number Check Again";
+                error = true;
+                Alert5.Visible = true;
+
+            }
+
+            else if (isNumeric == true)
+            {
+                if (CustomerCellPhone_TextBox.Text.Length < 9)
                 {
-                    
-                        mb = true;
-                        custnumerror.Visible = true;
-                   // messagenumber = "Customer Cell Phone is not a number Check Again";
+                    mb = true;
+                    custnumerror.Visible = true;
+                    messagenumber = "Customer Cell Phone is not full (10digits)";
                     error = true;
                     Alert5.Visible = true;
-                    
                 }
-                
-                else if (isNumeric == true)
-                {
-                    if (CustomerCellPhone_TextBox.Text.Length < 9)
-                    {
-                        mb = true;
-                        custnumerror.Visible = true;
-                        messagenumber = "Customer Cell Phone is not full (10digits)";
-                    error = true;
-                    Alert5.Visible = true;
-                    }
-                }
+            }
+        }
                    /*
                     int b;
                   bool  isNumericb = int.TryParse(CustomerIdNo_TextBox.Text, out b);
@@ -421,7 +425,46 @@ namespace AccessPesa
                 mb = false;
             }
             */
-           
+
+            public void saveactvtydate()
+            {
+                DateTime dn = DateTime.Now;
+            
+                dateread = dn.ToString();
+            //save current activity
+                    XDocument readdate = XDocument.Load(@"RuntimeData.xml");
+                    
+
+                            var user1 = from usr in readdate.Descendants("config")
+                                        select new
+                                        {
+
+                                            labl = usr.Element("lactivity").Value,
+
+                                        };
+                            foreach (var use in user1)
+                            {
+                                dateread = use.labl;
+
+                            }
+                    XDocument Doc = XDocument.Load(@"RuntimeData.xml");
+
+                    XElement element =
+                      Doc.Root.Elements("config").Where(r => (string)r.Element("lactivity") == dateread.ToString()).FirstOrDefault();
+                    if (element != null)
+                    {
+
+                        element.SetElementValue("lactivity", datesave.ToString());
+                        //    element.SetElementValue("cashIn", cashIn.ToString());
+
+
+                    }
+
+                    Doc.Save("RuntimeData.xml");
+
+                    //................................................................
+
+            }
+   
         }
     }
-}

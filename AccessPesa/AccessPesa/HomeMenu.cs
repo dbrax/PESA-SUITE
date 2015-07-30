@@ -60,6 +60,7 @@ namespace AccessPesa
             int siku = tar.countDate();
             days.Text = siku + " Days Left";
             //tar.checkValidDate();
+            tar.checkTemperDate();
 
         }
 

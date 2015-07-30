@@ -18,7 +18,7 @@ namespace AccessPesa
 
 
 
-        private DateTime releaseday, installdate;
+        private DateTime releaseday, installdate, lactve;
        private  DateTime latestdate = DateTime.Now;
 
         int trialcount;
@@ -60,7 +60,30 @@ namespace AccessPesa
         }
 
         public void checkTemperDate()
-        {//latest date vs lastdate
+        {//latest date vs lastactivitydate
+            //work here
+
+
+            String conv;
+            XDocument cash = XDocument.Load(@"RuntimeData.xml");
+
+            var users = from usr in cash.Descendants("config")
+                        select new
+                        {
+
+                            lact = usr.Element("lactivity").Value
+
+                        };
+
+
+            foreach (var use in users)
+            {
+               conv = use.lact;
+               lactve = Convert.ToDateTime(conv);
+               
+            }
+            TimeSpan difference = latestdate - lactve;
+            MessageBox.Show(Math.Truncate(difference.TotalDays) + "   days apart");
 
         }
 

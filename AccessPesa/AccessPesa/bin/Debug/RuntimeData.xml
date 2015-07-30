@@ -10,6 +10,7 @@
   </services>
   <config>
     <releasedate>6/5/2015</releasedate>
+    <lactivity>28/07/2015</lactivity>
     <latestdate>11/5/2015</latestdate>
     <installdate>6/10/2015</installdate>
     <status>new</status>
@@ -19,10 +20,10 @@
   <settings>
     <mfloat>1126000</mfloat>
     <tfloat>1830000</tfloat>
-    <efloat>3005000</efloat>
-    <afloat>930000</afloat>
+    <efloat>3000000</efloat>
+    <afloat>110000</afloat>
     <cfloat>1000000</cfloat>
-    <cashIn>3115000</cashIn>
+    <cashIn>3940000</cashIn>
     <lang>Eng</lang>
   </settings>
 </configuration>
